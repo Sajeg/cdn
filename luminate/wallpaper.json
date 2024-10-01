@@ -20,8 +20,18 @@
       "url": "https://cdn.sajeg.org/luminate/wallpaper/wp_green_1.png"
     },
     {
-      "name": "Gold Style 1",
+      "name": "Blue Style 2",
       "author": "LuminateOS",
-      "url": "https://cdn.sajeg.org/luminate/wallpaper/wp_gold_1.png"
+      "url": "https://cdn.sajeg.org/luminate/wallpaper/wp_blue_2.png"
+    },
+    {
+      "name": "Gold Style 2",
+      "author": "LuminateOS",
+      "url": "https://cdn.sajeg.org/luminate/wallpaper/wp_gold_2.png"
+    },
+    {
+      "name": "Green Style 2",
+      "author": "LuminateOS",
+      "url": "https://cdn.sajeg.org/luminate/wallpaper/wp_green_2.png"
     }
-  ]
+]
